@@ -1,5 +1,6 @@
 # Spring RTS game engine
 [![Build Status](https://travis-ci.org/spring/spring.svg?branch=develop)](https://travis-ci.org/spring/spring)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Faronj%2Fspring.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Faronj%2Fspring?ref=badge_shield)
 
 ## README
 
@@ -40,3 +41,7 @@ though it has [a LOT of additional ways of control and customizability](http://s
 ### Notes
 
 A more extensive readme can be found [here](http://springrts.com/wiki/Read_Me_First).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Faronj%2Fspring.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Faronj%2Fspring?ref=badge_large)
